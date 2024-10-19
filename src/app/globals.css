@@ -147,9 +147,6 @@ body, html{
 }
 
 @media (max-width: 600px) {
-    body{
-      overflow: auto;
-    }
     .nav .links{
       display: none;
     }
