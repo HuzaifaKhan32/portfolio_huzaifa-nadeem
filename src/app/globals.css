@@ -168,7 +168,6 @@ body, html{
     .content{
       flex-direction: column;
       flex-flow: column-reverse;
-      height: auto;
     }
     .left{
       display: flex;
